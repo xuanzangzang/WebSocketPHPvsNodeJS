@@ -20,11 +20,12 @@ npm install ws
 
 #Test
 use "cd" to this dir.then use "chrome" open webSocketPHPVSNodejs.html
-##PHP
+
+PHP
 use command:
 php webSocket.php
 
-##NodeJS
+NodeJS
 use command:
 node webSocket.js
 
@@ -34,11 +35,11 @@ php version
 nodejs version
  4.4.5
 
-#php webSocket.php
+>php webSocket.php
 
 Send One hundred thousand Socket Time:11.406096935272s
 
-#node webSocket.js
+>node webSocket.js
 
 Send One hundred thousand Socket Time:0.099s
 
